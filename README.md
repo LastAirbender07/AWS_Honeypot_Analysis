@@ -146,20 +146,29 @@ However, it is important to note that this dataset is a honeypot dataset, which 
 
 [1] 	Honeypot Analysis: An Overview and Comparative Study" by Ramachandraiah G. and Venkatesha 
 Link: https://ieeexplore.ieee.org/document/9280443
+
 [2]	Systematic Review of Graphical Visual Methods in Honeypot Attack Data Analysis by Gbenga Ikuomenisan
 	https://www.scirp.org/pdf/jis_2022082215284658.pdf
+	
 [3]	Honeypots and honeynets: issues of privacy
 	https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-017-0057-
+	
 [4]	“An Overview of Honeypot Systems” by Neha Titarmare
 https://www.researchgate.net/publication/332113726_An_Overview_of_Honeypot_Systems
+
 [5]	Honeypot Analysis: Tools and Techniques" by Muhammad Munwar Iqbal, Syed Asad Ali Shah, and Muhammad Arif.
+
 [6] 	Honeypot Technologies for Malware Detection and Analysis by Dragoș Draghicescu, PhD
 https://web.archive.org/web/20210921210754/https://revista.unap.ro/index.php/XXI_FCSM/article/download/1145/1116
+
 [7]	Hatice Beyza, “Password Attack Analysis Over Honeypot”  MatDer 1995 
 	 https://dergipark.org.tr/en/download/article-file/1879578
+	 
 [8] 	“Honeypot Data Analysis” from the book Honeypots for windows by Roger A. Grimes
 https://link.springer.com/chapter/10.1007/978-1-4302-0007-9_11
+
 [9]	Network Defence Strategy by Jianchao Hong
 	https://iopscience.iop.org/article/10.1088/1757-899X/322/5/052033/pdf
+	
 [10]	Threat Prediction using Honeypot and Machine Learning - Prof. Suvarna Aranjo
 https://web.archive.org/web/20220809040120/https://www.ijraset.com/best-journal/threat-prediction-using-honeypot-and-machine-learning
