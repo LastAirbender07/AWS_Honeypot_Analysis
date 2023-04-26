@@ -2,6 +2,7 @@
 This repository contains a "ipynb" file which has a detailed analysis of AWS_Honeypot dataset.
 
 ### 1 INTRODUCTION
+
 1.1	 ABSTRACT
 In recent years, cloud computing has become a popular platform for hosting web applications and services. However, as the adoption of cloud computing has increased, so too have the number of cyber-attacks. To detect and prevent these attacks, organizations often use honeypots, which are decoy systems designed to attract and monitor malicious activity. This research paper focuses on analyzing honeypot data collected from an Amazon Web Services (AWS) instance.
 This research paper focuses on analyzing honeypot attack data to improve the understanding of the attack landscape and develop effective countermeasures. Our research also covers the analysis of honeypot data using various techniques, including machine learning and statistical analysis. Our findings indicate that analyzing honeypot attack data can provide valuable insights into the methods and motivations of attackers, enabling organizations to develop more effective security measures.
